@@ -1,0 +1,8 @@
+# pack-refs with: peeled fully-peeled sorted 
+37e489af7417b7b7e52e6363cf4df92e260ffde5 refs/heads/atomist/pin-docker-base-image/dockerfile
+f1de898b61e4cac255b6a4528777d4d3e88d4943 refs/heads/dependabot/npm_and_yarn/app/http-cache-semantics-4.1.1
+b57e2553c041227b9e2405662254f79557d96988 refs/heads/dependabot/npm_and_yarn/app/json5-2.2.3
+14f017d11c63903a93295a46a76f8430250c23aa refs/heads/dependabot/npm_and_yarn/app/sqlite3-5.1.5
+c7bbd0119fadccc6d427377b605d1b658136d8bd refs/heads/master
+e5d371490c5c355d46155a2a06e53ad5ada35a84 refs/heads/repo-cleanup
+2ef123150dab2e8497df0a934d7c130ea1448a51 refs/heads/vscode
